@@ -1,0 +1,10 @@
+bin/
+obj/
+.vscode/
+*.user
+*.log
+*.db
+*.pdb
+*.cache
+.env
+.git/
